@@ -144,8 +144,65 @@ Current project structure
 │           │       └── jumarmartin
 │           │           └── Main.java
 │           └── untitled.iml
-├── README.md
-└── hello.txt
+├── Module5
+│   ├── M5-L1
+│   │   └── M5-L1-a1
+│   │       ├── M5-L1-a1.iml
+│   │       ├── M5-L1-a1.pdf
+│   │       ├── out
+│   │       │   └── production
+│   │       │       └── M5-L1-a1
+│   │       │           └── com
+│   │       │               └── jumarmartin
+│   │       │                   └── Main.class
+│   │       └── src
+│   │           └── com
+│   │               └── jumarmartin
+│   │                   └── Main.java
+│   ├── M5-L2
+│   │   ├── M5-L2-a1
+│   │   │   ├── M5-L2-a1.pdf
+│   │   │   ├── M5-L2-a2.iml
+│   │   │   ├── out
+│   │   │   │   └── production
+│   │   │   │       └── M5-L2-a2
+│   │   │   │           └── com
+│   │   │   │               └── jumarmartin
+│   │   │   │                   └── Main.class
+│   │   │   └── src
+│   │   │       └── com
+│   │   │           └── jumarmartin
+│   │   │               └── Main.java
+│   │   └── M5-L2-a2
+│   │       ├── M5-L2-a2\ spec.pdf
+│   │       ├── M5-L2-a2.iml
+│   │       ├── out
+│   │       │   └── production
+│   │       │       └── M5-L2-a2
+│   │       │           └── com
+│   │       │               └── jumarmartin
+│   │       │                   └── Main.class
+│   │       └── src
+│   │           └── com
+│   │               └── jumarmartin
+│   │                   └── Main.java
+│   └── M5-L3
+│       └── M5-L3-a1
+│           ├── M5-L3-a1\ spec.pdf
+│           ├── M5-L3-a1.iml
+│           ├── out
+│           │   └── production
+│           │       └── M5-L3-a1
+│           │           └── com
+│           │               └── jumarmartin
+│           │                   └── Main.class
+│           └── src
+│               └── com
+│                   └── jumarmartin
+│                       └── Main.java
+└── README.md
 
-99 directories, 43 files
+139 directories, 58 files
+
+
 ```
