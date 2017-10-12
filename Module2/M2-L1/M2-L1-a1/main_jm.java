@@ -6,12 +6,13 @@
  * "Hello, World!" Program
  *
  * Description: This is the first program for AP CompSci A SY 2017-2018.
- * Difficulties: Forgot to apply proper formatting to "Hello, World!" (the comma between "Hello" and "World" for example)
+
+ * Difficulties: Forgot To Apply Proper formatting to "Hello, World!" (the comma between "Hello" and "World" for example)
  * What I Learned: The foundations of a great program.
  *
  */
 
-public class Main {
+public class main_jm {
 
     public static void main(String[] args) {
         System.out.println("Hello, World!");
